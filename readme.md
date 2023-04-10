@@ -31,8 +31,8 @@ https://play.google.com/store/apps/details?id=com.ReminoStudios.PusJourney
 
 ##
 
-![i1](https://github.com/Drvex/socket.io/blob/master/images/dash.webp)
-![i1](https://github.com/Drvex/socket.io/blob/master/images/dash2.webp)
-![i1](https://github.com/Drvex/socket.io/blob/master/images/doublejump.webp)
-![i1](https://github.com/Drvex/socket.io/blob/master/images/fire.webp)
+![i1](https://github.com/Drvex/Pu-s-Journey/blob/master/images/dash.webp)
+![i1](https://github.com/Drvex/Pu-s-Journey/blob/master/images/dash2.webp)
+![i1](https://github.com/Drvex/Pu-s-Journey/blob/master/images/doublejump.webp)
+![i1](https://github.com/Drvex/Pu-s-Journey/blob/master/images/fire.webp)
 
